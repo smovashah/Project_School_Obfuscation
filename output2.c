@@ -1,0 +1,1 @@
+int _0(int _1){return _1*_1;}int _2(){int _3=5;int _4=_0(_3);_5("x=%d, y=%d\n",_3,_4);return 0;}
